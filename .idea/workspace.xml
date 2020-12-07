@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a7a9884-e30a-466d-b0a7-12799deaac3b" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/aaa.ts" beforeDir="false" afterPath="$PROJECT_DIR$/common/aaa.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/main.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +32,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607331554175</updated>
-      <workItem from="1607331555755" duration="27000" />
+      <workItem from="1607331555755" duration="262000" />
+      <workItem from="1607331844047" duration="39000" />
     </task>
     <servers />
   </component>
