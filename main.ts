@@ -1,7 +1,7 @@
-// import obj, { num } from 'http://www_liuming.gitee.io/deno/common/Home.ts'
-import str from "./common/HelloWord.ts";
 
-console.log(str);
+import aa, { str } from "http://www_liuming.gitee.io/deno/common/HelloWord.ts";
 
-// console.log(obj);
 
+console.log(str)
+
+console.log(aa)

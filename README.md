@@ -2,4 +2,4 @@
 http://www_liuming.gitee.io/deno/ 
 
 例如
-http://www_liuming.gitee.io/deno/common/Home.ts
+http://www_liuming.gitee.io/deno/common/HelloWorld.ts
