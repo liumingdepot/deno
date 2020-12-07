@@ -1,2 +1,2 @@
 
-export const aaa = 'aaa'
+export const aaa: string = 'aaa'

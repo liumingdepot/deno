@@ -1,4 +1,4 @@
 
-import { add } from 'http://www_liuming.gitee.io/deno/common/Hello.ts'
+import { add } from 'http://www_liuming.gitee.io/deno/Hello.ts'
 
-console.log(add(1, 5))
+console.log(add(1, '2'))

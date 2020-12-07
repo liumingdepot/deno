@@ -1,7 +1,4 @@
-import { aaa } from "./aaa.ts";
-
-export const add = function (a: number, b: number): number {
-    console.log(aaa)
+export const add = function (a: number, b: string): number {
     return a + b
 }
 
