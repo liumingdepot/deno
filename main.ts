@@ -1,5 +1,5 @@
 
-import { add } from 'http://www_liuming.gitee.io/deno/Hello.ts'
+import { add } from 'https://liumingdepot.github.io/deno/common/Hello.ts'
 
 console.log(add(1, 1))
 
