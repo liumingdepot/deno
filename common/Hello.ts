@@ -1,14 +1,5 @@
 
-export const str: string = 'Hello Word!!'
-
-interface objType {
-    name: string,
-    age: number
+export const add = function (a: number, b: number): number {
+    return a + b
 }
 
-const obj: objType = {
-    name: 'liuming',
-    age: 12
-}
-
-export default obj

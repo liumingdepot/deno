@@ -1,7 +1,4 @@
 
-import aa, { str } from "http://www_liuming.gitee.io/deno/common/HelloWorld.ts";
+import { add } from './common/Hello.ts'
 
-
-console.log(str)
-
-console.log(aa)
+console.log(add(1, 5))
